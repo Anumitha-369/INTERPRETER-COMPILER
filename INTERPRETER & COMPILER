@@ -1,0 +1,17 @@
+INTREPRETER:
+
+1.  Translates program one statement at  a time .
+2.  Intrepretes line by line .
+3.  Takes less time to analyse the code.
+4.  Debugging is easy.
+5.  Programming languages like Python, Ruby are used.
+
+COMPILER:
+
+1.  Scans the entire program and translates the whole into machine code .
+2.  Generates error message after analysing the whole code.
+3.  Takes more time to analyse the code.
+4.  Debugging is hard.
+5.  Programming languages like C, C++ are used.
+
+
